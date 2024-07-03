@@ -19,7 +19,7 @@ The project is organized as follows:
 
 - `data/`: [Directory containing the sales dataset.](https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data)
 - `notebooks/`: [Google Colab Notebook with the analysis and visualizations.](https://colab.research.google.com/drive/1B5Z9pIqhkmaUmdB3mdCZhsNjuauW8HkG?usp=sharing)
-- `README.md`: Project documentation (this file).
+- `README.md`: Project documentation (https://github.com/pqwevg4/Sales_Data_Analysis/blob/main/Sales%20Data%20Analysis/README_Sales_Data.md).
 
 ## Getting Started
 
